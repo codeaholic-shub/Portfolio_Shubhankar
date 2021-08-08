@@ -14,7 +14,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 ## 📌 Sneak Peek of Main Page 🙈 :
 ![mockup720](https://github.com/codeaholic-shub/Portfolio_Shubhankar/blob/main/assests/images/portfolio.png)
-![skillsmockup]()
+![skillsmockup](https://github.com/codeaholic-shub/Portfolio_Shubhankar/blob/main/assests/images/skills.png)
 
 
 <h2>📬 Contact</h2>
